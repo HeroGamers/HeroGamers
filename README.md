@@ -1,4 +1,4 @@
-### Hi there, I'm Hero 👋
+## Hi there, I'm Hero 👋
 
 I'm Hero, a boy that is going for the MSc programme in Computer Science and Engineering~
 
