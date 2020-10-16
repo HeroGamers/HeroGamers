@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&family=Roboto:wght@300;500&display=swap');
+
+:root {
+    /* https://coolors.co/7400b8-6930c3-5e60ce-5390d9-4ea8de-48bfe3-56cfe1-64dfdf-72efdd-80ffdb */
+    --background-mark-color: #7400B8;
+    --mark-color1: #e5e5e5;
+    --mark-color2: #5390D9;
+    --mark-color3: #99D5C6;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Page Stuff */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.navbar-icon {
+    max-height: 50px;
+    width: auto;
+}
+
+.section {
+    color: var(--mark-color1);
+    margin-top: 100px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color: var(--background-mark-color);
+    margin-left: -600px;
+    margin-right: -600px;
+}
+
+
+.footer {
+    padding-bottom: 180px;
+}
+
+.social-media-icons .btn {
+    margin: 0 0.8rem;
+    position: relative;
+
+    /*  colors and fun  */
+    color: var(--mark-color1);
+    border-color: var(--mark-color1);
+}
+
+.social-media-icons .btn:hover {
+    color: var(--mark-color1);
+    background-color: var(--mark-color2);
+}
+
+.social-media-icons .btn:active {
+    background-color: var(--mark-color3);
+    border-color: var(--mark-color2);
+}
+
+.social-media-icons .btn:focus {
+    /*color: #ffffff;*/
+    /*background-color: var(--mark-color2);*/
+    box-shadow: 0 0 0 0;
+}
+
+.social-media-icons .btn i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn-circle {
+    border-radius: 45px;
+    width: 3rem;
+    height: 3rem;
+}
+
+.social-media-icons h3 {
+    color: var(--mark-color1);
+}
