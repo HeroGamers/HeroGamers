@@ -3,12 +3,12 @@
 
 <a href="https://myoctocat.com" target="_blank"><img align="right" width="200px" height="auto" alt="Hero's Octocat" src="./img/octocat.svg"></a>
 
-Or, that's at least what I'm called by most of those that I've met throughout the years online! My real name is Marcus, and I currently live in Denmark where I'm studying [Software Technology](https://www.dtu.dk/english/education/bachelor-beng-and-bsc-/beng/software-technology) at the [Technical University of Denmark](https://www.dtu.dk/english). Currently I'm planning on going for the MSc programme in Computer Science and Engineering.
+Or, that's at least what I'm called by most of those that I've met throughout the years online! My real name is Marcus, and I currently live in Denmark, where I'm studying [Software Technology](https://www.dtu.dk/english/education/bachelor-beng-and-bsc-/beng/software-technology) at the [Technical University of Denmark](https://www.dtu.dk/english). Currently I'm planning on going for the MSc programme in Computer Science and Engineering.
 
 I spend most of my time in school or working, but whenever I have some extra time on my hands, I use it to chill with some side-projects, gaming with friends or just browsning the World Wide Web!
 
 <!-- Socials -->
-## Social Media
+### 🌍 Social Media
 
 You can find me all over the web, but here are some sites, just to list a few!
 
@@ -20,7 +20,7 @@ You can find me all over the web, but here are some sites, just to list a few!
 </div>
 
 <!-- Stats -->
-## GitHub Stats
+### 📈 GitHub Stats
 
 What is a proper profile README without some statistics, rendered into some beautiful graphics? I don't know either!
 
@@ -34,7 +34,7 @@ What is a proper profile README without some statistics, rendered into some beau
 
 \- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 
-### GitHub Skyline
+#### 🏙️ GitHub Skyline
 
 <div align="center">
 
@@ -54,7 +54,7 @@ What is a proper profile README without some statistics, rendered into some beau
 If you don't know about [GitHub Skyline](https://skyline.github.com), it's a website where you can view your GitHub contributions in 3D. Below are my contributions in ASCII, which can also be found on the site.
 
 <!-- Appendix -->
-## Appendix
+### 👓 Appendix
 
 That was all that I had prepared for my profile. Below you should be able to find some pinned/recent projects that I've worked on, if that might pique your interest - but other than that, thanks for swinging by my profile! Cheers!  
 ~ Love, Hero <3
