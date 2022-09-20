@@ -3,7 +3,7 @@
 
 <a href="https://myoctocat.com" target="_blank"><img align="right" width="200px" height="auto" alt="Hero's Octocat" src="./img/octocat.svg"></a>
 
-Or, that's at least what I'm called by most of those that I've met throughout the years online! My real name is Marcus, and I currently live in Denmark, where I'm studying [Software Technology](https://www.dtu.dk/english/education/bachelor-beng-and-bsc-/beng/software-technology) at the [Technical University of Denmark](https://www.dtu.dk/english). Currently I'm planning on going for the MSc programme in Computer Science and Engineering.
+Or, that's at least what I'm called by most of those that I've met throughout the years online! My real name is Marcus, and I currently live in Denmark, where I'm studying [Software Technology](https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/beng-programmes/software-technology) at the [Technical University of Denmark](https://www.dtu.dk/english). Currently I'm planning on going for the MSc programme in Computer Science and Engineering.
 
 I spend most of my time in school or working, but whenever I have some extra time on my hands, I use it to chill with some side-projects, chatting with friends or just browsing the World Wide Web!
 
