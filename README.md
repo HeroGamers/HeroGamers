@@ -39,6 +39,18 @@ What is a proper profile README without some statistics, rendered into some beau
 <div align="center">
 
 ```
+          @HeroGamers' 2022 GitHub Skyline           
+
+ ✦ ▁                        ✦     ✧       ▁✧         
+  ▃█       ▄       ✦ ✦        ✦        ☽  █          
+  ██       █     ▂▇    █                  █▅      ✧  
+ ▃██  ✦ █▇ █  ▆ ▇██   ▇█               ▆▁ ██▁ ▂▄▁ ▂  
+ ███ ▃▁▄██▂█▅▅█▄███▄▄▃██      ▁ ✧    ▄▅██████▃███▆█  
+▁███▇███████████████████▁▁▁▅▇▁█▅▁▁▁▁▁██████████████▅▁
+```
+
+<!--
+```
           @HeroGamers' 2021 GitHub Skyline           
 
        ✧                 ✧         ✧   ▁ ✦           
@@ -49,7 +61,7 @@ What is a proper profile README without some statistics, rendered into some beau
 ▁▁▇▅▁▇█▅▁███▅██▅██▇▅███▁▁▁▅▁▁▁▁▅▁▁▁▁▇▁██████████▁▁▁▁▁
 ```
 
-<!--
+
 ```
           @HeroGamers' 2020 GitHub Skyline           
 
@@ -65,6 +77,7 @@ What is a proper profile README without some statistics, rendered into some beau
 </div>
 
 If you don't know about [GitHub Skyline](https://skyline.github.com), it's a website where you can view your GitHub contributions in 3D. Below are my contributions in ASCII, which can also be found on the site.
+<!-- You can find the ASCII art version by looking at the console -->
 
 <!-- Appendix -->
 ### 👓 Appendix
