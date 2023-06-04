@@ -1,11 +1,11 @@
 <!-- Introduction -->
-## Hi there, I'm Hero 👋
+## Hi there, I'm Marcus 👋
 
 <a href="https://myoctocat.com" target="_blank"><img align="right" width="200px" height="auto" alt="Hero's Octocat" src="./img/octocat.svg"></a>
 
-Or, that's at least what I'm called by most of those that I've met throughout the years online! My real name is Marcus, and I currently live in Denmark, where I'm studying [Software Technology](https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/beng-programmes/software-technology) at the [Technical University of Denmark](https://www.dtu.dk/english). Currently I'm planning on going for the MSc programme in Computer Science and Engineering.
+My name is Marcus, and I currently live in Copenhagen, Denmark, where I'm studying [Software Technology](https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/beng-programmes/software-technology) at the [Technical University of Denmark](https://www.dtu.dk/english). I'm planning on going for the [MSc programme in Computer Science and Engineering](https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering), with specializations in Computer Security and Software Engineering.
 
-I spend most of my time in school or working, but whenever I have some extra time on my hands, I use it to chill with some side-projects, chatting with friends or just browsing the World Wide Web!
+I spend most of my time at the university or working, but whenever I have some extra time on my hands I use it to fiddle around with some side-projects and new technologies!
 
 <!-- Socials -->
 ### 🌍 Social Media
@@ -78,6 +78,10 @@ What is a proper profile README without some statistics, rendered into some beau
 
 If you don't know about [GitHub Skyline](https://skyline.github.com), it's a website where you can view your GitHub contributions in 3D. Below are my contributions in ASCII, which can also be found on the site.
 <!-- You can find the ASCII art version by looking at the console -->
+
+### Portfolio
+
+You can find my portfolio, and personal website, on [herogamers.dev](https://herogamers.dev/)!
 
 <!-- Appendix -->
 ### 👓 Appendix
