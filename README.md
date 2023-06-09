@@ -27,8 +27,9 @@ What is a proper profile README without some statistics, rendered into some beau
 <!-- tried setting the width of both to 49%, but can't seem to find a way to set min-width, so they get super squashed on mobile devices -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=HeroGamers&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for HeroGamers" width="480px"></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=HeroGamers&theme=jolly" alt="GitHub Contribution Stats for HeroGamers" width="480px">
-</div></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=HeroGamers&theme=jolly" alt="GitHub Contribution Stats for HeroGamers" width="480px"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#compact-language-card-layout" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroGamers&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="Most used languages for HeroGamers" width="480px"></a>
+</div>
 
 > Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
 
