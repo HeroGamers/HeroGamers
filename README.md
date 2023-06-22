@@ -32,7 +32,7 @@ What is a proper profile README without some statistics rendered into some beaut
   <a href="https://wakatime.com/@Hero" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hero&theme=jolly&layout=compact" alt="Wakatime Stats listing the most used languages for HeroGamers with time spent" width="480px"></a>
 </div>
 
-> Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
+> Available ranks are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone). *(...)* The global percentile is calculated as a weighted sum of percentiles for each statistic (number of commits, pull requests, issues, stars and followers), based on the cumulative distribution function of the exponential and the log-normal distributions.
 
 \- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 
