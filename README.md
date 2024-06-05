@@ -3,14 +3,14 @@
 
 <a href="https://myoctocat.com" target="_blank"><img align="right" width="200px" height="auto" alt="Hero's Octocat" src="./img/octocat.svg"></a>
 
-My name is Marcus, and I currently live in Copenhagen, Denmark, where I'm studying [Software Technology](https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/beng-programmes/software-technology) at the [Technical University of Denmark](https://www.dtu.dk/english). I'm planning on going for the [MSc programme in Computer Science and Engineering](https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering), with specializations in Computer Security and Software Engineering.
+My name is Marcus, and I currently live in Copenhagen, Denmark, where I'm studying [Software Technology](https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/beng-programmes/software-technology) at the [Technical University of Denmark](https://www.dtu.dk/english). I'm planning on going for the [MSc programme in Cyber Security](https://www.en.aau.dk/education/master/cyber-security).
 
-I spend most of my time at the university or working, but whenever I have some extra time on my hands, I use it to fiddle around with some side projects and new technologies!
+I spend most of my time at the university or working, but whenever I have some extra time on my hands, I use it to catch some flags (CTF) with [Kalmarunionen](https://www.kalmarunionen.dk), fiddle around with some side projects, or just play with new technologies!
 
 <!-- Socials -->
 ### 🌍 Social Media
 
-You can find me all over the web, but here are some sites, just to list a few!
+You can find me all over the web, but here are some socials, just to list a few!
 
 <div align="center">
   <a href="https://linkedin.com/in/marcus-sand" target="_blank"><img width="75px" height="75px" alt="LinkedIn Icon" src="./img/socials/linkedin-brands.svg"></a>
@@ -43,6 +43,18 @@ What is a proper profile README without some statistics rendered into some beaut
 <div align="center">
 
 ```
+          @HeroGamers' 2023 GitHub Skyline           
+
+                 ☽▁    ✦                       ▁     
+  ▃   ▃           █    ▁                    ✧  █     
+  █   █           █ ✦ ▅█▁                    ▂▂█     
+▇▄█   █  ▂      ▇▁█ ▄▇███ ▂  ▂✧              ███     
+███ ✦ ██▃█▁▂   ▇███ █████▂█ ▃█    ▂✦   ▁▁ ▃ ▅███     
+███▁█▇██████▅▁▁████▁███████▁██▁▁▁▁█▁▁▅▅██▅█▇████▁▇▁▁▁
+```
+
+<!--
+```
           @HeroGamers' 2022 GitHub Skyline           
 
  ✦ ▁                        ✦     ✧       ▁✧         
@@ -53,7 +65,6 @@ What is a proper profile README without some statistics rendered into some beaut
 ▁███▇███████████████████▁▁▁▅▇▁█▅▁▁▁▁▁██████████████▅▁
 ```
 
-<!--
 ```
           @HeroGamers' 2021 GitHub Skyline           
 
@@ -64,7 +75,6 @@ What is a proper profile README without some statistics rendered into some beaut
       ▁  ▅▂▅ ▂▁ █▂  ▅██        ✧  ✧   ██▄█▁█▃█▄█    ✦
 ▁▁▇▅▁▇█▅▁███▅██▅██▇▅███▁▁▁▅▁▁▁▁▅▁▁▁▁▇▁██████████▁▁▁▁▁
 ```
-
 
 ```
           @HeroGamers' 2020 GitHub Skyline           
